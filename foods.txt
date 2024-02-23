@@ -4,3 +4,6 @@ my foods:
 - ayam goreng
 - burger
 - ayam geprek
+- kebab
+- mie ayam
+- bakso
