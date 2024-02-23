@@ -3,3 +3,6 @@ my drinks:
 - STMJ
 - es degan
 - es jeruk
+- cappuccino
+- milkshake
+- choco milk
