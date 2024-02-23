@@ -7,3 +7,5 @@ my foods:
 - kebab
 - mie ayam
 - bakso
+- mie goreng
+- nasi lengko
