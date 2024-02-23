@@ -1,0 +1,5 @@
+my drinks:
+
+- STMJ
+- es degan
+- es jeruk
