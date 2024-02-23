@@ -4,3 +4,4 @@ my fruits:
 - banana
 - durian
 - rambutan
+- semangka
