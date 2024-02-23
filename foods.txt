@@ -3,3 +3,4 @@ my foods:
 - nasi goreng
 - ayam goreng
 - burger
+- ayam geprek
